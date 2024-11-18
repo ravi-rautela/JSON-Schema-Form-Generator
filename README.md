@@ -33,18 +33,21 @@ A real-time JSON Schema Form Generator that allows you to edit JSON, validate it
 ### Prerequisites
 
 Ensure you have the following installed on your system:
+
 - Node.js (>= 14.x)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-repo/json-schema-form-generator.git
+   git clone https://github.com/ravi-rautela/JSON-Schema-Form-Generator
    cd json-schema-form-generator
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    # or
@@ -52,6 +55,7 @@ Ensure you have the following installed on your system:
    ```
 
 3. Start the development server:
+
    ```bash
    npm run dev
    # or
@@ -149,6 +153,7 @@ Ensure you have the following installed on your system:
 ### Run Development Server
 
 1. Start the dev server:
+
    ```bash
    npm run dev
    # or
@@ -163,6 +168,7 @@ Ensure you have the following installed on your system:
 ### Run Tests
 
 - Run unit tests:
+
   ```bash
   npm test
   ```
@@ -179,11 +185,13 @@ Ensure you have the following installed on your system:
 ### Deploy to Vercel
 
 1. Install Vercel CLI:
+
    ```bash
    npm install -g vercel
    ```
 
 2. Deploy the app:
+
    ```bash
    vercel
    ```
@@ -193,16 +201,19 @@ Ensure you have the following installed on your system:
 ### Deploy to Netlify
 
 1. Install Netlify CLI:
+
    ```bash
    npm install -g netlify-cli
    ```
 
 2. Build the project:
+
    ```bash
    npm run build
    ```
 
 3. Deploy the app:
+
    ```bash
    netlify deploy
    ```
@@ -213,14 +224,4 @@ Ensure you have the following installed on your system:
 
 ## Deployed Application
 
-Access the live application here: [Live Demo](https://your-deployment-link)
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like further adjustments or help setting up deployment! 😊
+Access the live application here: [Live Demo](https://json-schema-form-generator.vercel.app/)
