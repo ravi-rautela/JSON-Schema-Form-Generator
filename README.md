@@ -198,28 +198,6 @@ Ensure you have the following installed on your system:
 
 3. Follow the prompts to deploy your app. Once deployed, you'll receive a public URL.
 
-### Deploy to Netlify
-
-1. Install Netlify CLI:
-
-   ```bash
-   npm install -g netlify-cli
-   ```
-
-2. Build the project:
-
-   ```bash
-   npm run build
-   ```
-
-3. Deploy the app:
-
-   ```bash
-   netlify deploy
-   ```
-
-4. Follow the prompts to configure your deployment. You’ll receive a public URL upon completion.
-
 ---
 
 ## Deployed Application
